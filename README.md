@@ -16,6 +16,3 @@ Here's my PCB! It was made in KiCad..
 
 ### PCB
 ![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6fd86ed159e54548f2f056bee3e29779e99444c3_screenshot_20250429_141025.png)
-
-![test](demo.mp4)
-
