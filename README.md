@@ -1,12 +1,6 @@
 # Split-Keyboard-PCB
 A 40% ish reversible split keyboard inspired by the [MiniDox](https://github.com/That-Canadian/MiniDox_PCB) keyboard
 
-## Features:
-
-- Reversible meaning you can only buy 1 desing and use the same pcb for left and right
-- WaveShare RP2040
-- QMK programmable
-
 ## PCB
 
 Here's my PCB! It was made in KiCad..
